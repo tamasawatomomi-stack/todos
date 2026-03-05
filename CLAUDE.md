@@ -23,3 +23,7 @@ This is a Next.js 16 app using the App Router (`src/app/`), React 19, TypeScript
 - **Path alias**: `@/*` maps to `src/*`
 
 Tailwind v4 is configured via PostCSS (`postcss.config.mjs`) with `@tailwindcss/postcss`. There is no `tailwind.config.js` — theme customization is done inside CSS using `@theme inline` blocks in `globals.css`.
+
+## Guidelines
+
+- 常に日本語で思考し、日本語で回答すること
